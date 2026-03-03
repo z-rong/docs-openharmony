@@ -1,3 +1,5 @@
+sidebar_position: 1
+
 # K1 OH5.0
 
 - [1. K1_OH5.0简介](root_overview.md)
