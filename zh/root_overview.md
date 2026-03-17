@@ -28,5 +28,6 @@ sidebar_position: 1
 |----------|------------|------------|
 | K1      | OpenHarmony5.0 | 可量产  |
 | K1      | OpenHarmony6.0 | 可体验  |
+| K1      | OpenHarmony6.1 | 开发中  |
 | K3      | OpenHarmony6.0 | 可体验  |
 | K3      | OpenHarmony6.1 | 开发中  |
