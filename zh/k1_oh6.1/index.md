@@ -5,7 +5,7 @@
  * 
  * @Author: David(qiang.fu@spacemit.com)
  * @Date: 2026-04-07 11:04:01
- * @LastEditTime: 2026-04-16 10:20:18
+ * @LastEditTime: 2026-04-25 11:16:22
  * @FilePath: \doc\docs-openharmony\zh\k1_oh6.1\index.md
  * @Description: 
 -->
@@ -16,4 +16,6 @@ sidebar_position: 4
 - [1. K1_OH6.1简介](1_K1_OH6.1_intro.md)
 - [2. K1_OH6.1下载编译烧录说明](2_K1_OH6.1_build_flash.md)
 - [3. K1_OH6.1方案添加移植说明](3_K1_OH6.1_porting.md)
+- [4. K1_OH6.1系统定制说明](4_K1_OH6.1_customization.md)
+- [5. K1_OH6.1系统调试说明](5_K1_OH6.1_debugging.md)
 
