@@ -1,3 +1,14 @@
+<!--
+ * Copyright 2022-2023 SPACEMIT. All rights reserved.
+ * Use of this source code is governed by a BSD-style license
+ * that can be found in the LICENSE file.
+ * 
+ * @Author: David(qiang.fu@spacemit.com)
+ * @Date: 2026-04-25 11:16:01
+ * @LastEditTime: 2026-04-25 11:16:02
+ * @FilePath: \doc\docs-openharmony\zh\k1_oh5.0\index.md
+ * @Description: 
+-->
 sidebar_position: 2
 
 # K1 OH5.0
@@ -5,7 +16,7 @@ sidebar_position: 2
 - [1. K1_OH5.0简介](1_K1_OH5.0_intro.md)
 - [2. K1_OH5.0下载编译烧录说明](2_K1_OH5.0_build_flash.md)
 - [3. K1_OH5.0方案添加移植说明](3_K1_OH5.0_porting.md)
-- [4. K1_OH5.0系统定制说](4_K1_OH5.0_customization.md)
+- [4. K1_OH5.0系统定制说明](4_K1_OH5.0_customization.md)
 - [5. K1_OH5.0系统调试说明](5_K1_OH5.0_debugging.md)
 - [6. K1_OH5.0应用开发说明](6_K1_OH5.0_app_dev.md)
 - [7. K1_OH5.0AI构建开发说明](7_K1_OH5.0_ai_build.md)
