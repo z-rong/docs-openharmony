@@ -5,7 +5,7 @@
  * 
  * @Author: David(qiang.fu@spacemit.com)
  * @Date: 2026-04-07 11:04:01
- * @LastEditTime: 2026-04-27 15:33:51
+ * @LastEditTime: 2026-04-28 10:29:18
  * @FilePath: \doc\docs-openharmony\zh\k1_oh6.1\index.md
  * @Description: 
 -->
@@ -20,4 +20,5 @@ sidebar_position: 4
 - [5. K1_OH6.1系统调试说明](5_K1_OH6.1_debugging.md)
 - [6. K1_OH6.1 AI检测识别应用说明](6_K1_OH6.1_yolo.md)
 - [7. K1_OH6.1 AI聊天应用说明](7_K1_OH6.1_llmchat.md)
+- [8. K1_OH6.1 OTA使用说明](8_K1_OH6.1_ota.md)
 
