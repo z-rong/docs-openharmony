@@ -5,30 +5,25 @@
  * 
  * @Author: David(qiang.fu@spacemit.com)
  * @Date: 2026-03-04 11:39:35
- * @LastEditTime: 2026-05-07 15:30:20
- * @FilePath: \doc\docs-openharmony\zh\k1_oh6.1\9_K1_OH6.1_rvvdemo.md
+ * @LastEditTime: 2026-05-13 16:19:38
+ * @FilePath: \doc\docs-openharmony\zh\ai_application\3_OH_AI_rvvdemo.md
  * @Description: 
 -->
-sidebar_position: 9
+sidebar_position: 3
 
 # RVV应用说明
-
-## 目录
-
-- [项目简介](#项目简介)
-- [技术栈](#技术栈)
-- [架构设计](#架构设计)
-- [代码结构](#代码结构)
-- [算法实现](#算法实现)
-- [编译指南](#编译指南)
-- [RVV Intrinsic 编程指南](#rvv-intrinsic-编程指南)
-- [FAQ](#faq)
-
----
 
 ## 项目简介
 
 RVV Demo 是一个基于 OpenHarmony 的原生应用，用于展示 RISC-V Vector Extension (RVV) 在常见算法中的性能优势。应用通过对比标量实现和 RVV 向量化实现的执行时间，直观展示向量化加速效果。
+
+## 平台支持情况
+
+|      平台 & 系统       |       是否支持     |
+|-----------------------|-----------------------|
+| K1 OpenHarmony5.0     | ✅ 支持               |
+| K1 OpenHarmony6.1    | ✅ 支持             |
+| K3 OpenHarmony6.1     | ✅ 支持              |
 
 ### 核心功能
 

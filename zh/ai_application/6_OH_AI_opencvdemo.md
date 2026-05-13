@@ -5,11 +5,11 @@
  * 
  * @Author: David(qiang.fu@spacemit.com)
  * @Date: 2026-03-04 11:39:35
- * @LastEditTime: 2026-05-11 16:57:16
- * @FilePath: \doc\docs-openharmony\zh\k1_oh6.1\12_K1_OH6.1_opencvdemo.md
+ * @LastEditTime: 2026-05-13 16:19:54
+ * @FilePath: \doc\docs-openharmony\zh\ai_application\6_OH_AI_opencvdemo.md
  * @Description: 
 -->
-sidebar_position: 12
+sidebar_position: 6
 
 # OpenCV应用说明
 
@@ -25,7 +25,13 @@ sidebar_position: 12
 | 场景二：边缘检测 | Canny 边缘检测、Sobel 梯度 |
 | 场景三：图像变换 | 二值化阈值、直方图均衡化 |
 
----
+## 平台支持情况
+
+|      平台 & 系统       |       是否支持     |
+|-----------------------|-----------------------|
+| K1 OpenHarmony5.0     | ✅ 支持               |
+| K1 OpenHarmony6.1    | ✅ 支持             |
+| K3 OpenHarmony6.1     | ✅ 支持              |
 
 ## 技术栈
 
