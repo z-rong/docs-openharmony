@@ -5,7 +5,7 @@
  * 
  * @Author: David(qiang.fu@spacemit.com)
  * @Date: 2026-03-03 11:24:55
- * @LastEditTime: 2026-03-04 11:41:00
+ * @LastEditTime: 2026-05-13 15:46:59
  * @FilePath: \doc\docs-openharmony\zh\root_overview.md
  * @Description: 
 -->
@@ -17,7 +17,7 @@ sidebar_position: 1
 
 | 修订版本 | 修订日期   | 修订说明   |
 |----------|------------|----------|
-| 001      | 2026-03-04 | 初始版本  |
+| 001      | 2026-05-13 | 初始版本  |
 
 
 ## 1. 概述
@@ -27,7 +27,5 @@ sidebar_position: 1
 | 平台 | OpenHarmony版本   | 支持情况 |
 |----------|------------|------------|
 | K1      | OpenHarmony5.0 | 可量产  |
-| K1      | OpenHarmony6.0 | 可体验  |
 | K1      | OpenHarmony6.1 | 开发中  |
-| K3      | OpenHarmony6.0 | 可体验  |
 | K3      | OpenHarmony6.1 | 开发中  |

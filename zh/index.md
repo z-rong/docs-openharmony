@@ -5,7 +5,7 @@
  * 
  * @Author: David(qiang.fu@spacemit.com)
  * @Date: 2026-03-03 11:24:55
- * @LastEditTime: 2026-04-23 14:52:11
+ * @LastEditTime: 2026-05-13 15:50:41
  * @FilePath: \doc\docs-openharmony\zh\index.md
  * @Description: 
 -->
@@ -13,7 +13,6 @@
 
 - [简介](root_overview.md)
 - [K1 OH5.0](k1_oh5.0/index.md)
-- [K1 OH6.0(不维护)](k1_oh6.0/index.md)
 - [K1 OH6.1](k1_oh6.1/index.md)
-- [K3 OH6.0（不维护）](k3_oh6.0/index.md)
 - [K3 OH6.1](k3_oh6.1/index.md)
+- [AI应用专题](ai_application/index.md)
