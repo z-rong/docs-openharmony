@@ -9,7 +9,7 @@
  * @FilePath: \doc\docs-openharmony\zh\k1_oh6.1\9_K1_OH6.1_rvvdemo.md
  * @Description: 
 -->
-sidebar_position: 11
+sidebar_position: 5
 
 # ASR应用说明
 

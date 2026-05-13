@@ -5,13 +5,13 @@
  * 
  * @Author: David(qiang.fu@spacemit.com)
  * @Date: 2026-03-04 11:39:35
- * @LastEditTime: 2026-04-27 15:23:26
- * @FilePath: \doc\docs-openharmony\zh\k1_oh6.1\6_K1_OH6.1_yolo.md
+ * @LastEditTime: 2026-05-13 16:19:24
+ * @FilePath: \doc\docs-openharmony\zh\ai_application\1_OH_AI_yolo.md
  * @Description: 
 -->
-sidebar_position: 6
+sidebar_position: 1
 
-# K1_OH6.1 AI检测识别应用说明
+# AI检测识别应用说明
 
 ## 修订记录
 
@@ -19,22 +19,16 @@ sidebar_position: 6
 |----------|------------|-------------|
 | 001      | 2026-04-27 | 初始版本       |
 
-## 1. 概述
+## 概述
 YOLODetection是基于 OpenHarmony 的 AI 视觉检测应用，集成目标检测、人脸检测、人脸识别三大功能，使用 ONNX Runtime 在 RISC-V 设备上进行推理。
 
-## 目录
+## 平台支持情况
 
-- [技术栈](#技术栈)
-- [项目架构](#项目架构)
-- [目录结构](#目录结构)
-- [数据流程图](#数据流程图)
-- [编译与构建](#编译与构建)
-- [部署与运行](#部署与运行)
-- [定制与修改指导](#定制与修改指导)
-- [关键参数说明](#关键参数说明)
-- [FAQ](#faq)
-
----
+|      平台 & 系统       |       是否支持     |
+|-----------------------|-----------------------|
+| K1 OpenHarmony5.0     | ✅ 支持               |
+| K1 OpenHarmony6.1    | ✅ 支持             |
+| K3 OpenHarmony6.1     | ✅ 支持              |
 
 ## 技术栈
 

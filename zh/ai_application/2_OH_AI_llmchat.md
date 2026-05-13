@@ -9,9 +9,9 @@
  * @FilePath: \doc\docs-openharmony\zh\k1_oh6.1\7_K1_OH6.1_llmchat.md
  * @Description: 
 -->
-sidebar_position: 7
+sidebar_position: 2
 
-# K1_OH6.1 AI聊天应用说明
+# AI聊天应用说明
 
 ## 修订记录
 
@@ -19,9 +19,17 @@ sidebar_position: 7
 |----------|------------|-------------|
 | 001      | 2026-04-27 | 初始版本      |
 
-## 1. 概述
+## 概述
 
 LLMChat是基于 OpenHarmony 的本地大语言模型聊天应用，在设备端直接运行 llama-server，无需联网即可与 AI 对话。
+
+## 平台支持情况
+
+|      平台 & 系统       |       是否支持     |
+|-----------------------|-----------------------|
+| K1 OpenHarmony5.0     | ✅ 支持               |
+| K1 OpenHarmony6.1    | ✅ 支持             |
+| K3 OpenHarmony6.1     | ✅ 支持              |
 
 ## 技术栈
 
