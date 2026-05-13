@@ -5,11 +5,11 @@
  * 
  * @Author: David(qiang.fu@spacemit.com)
  * @Date: 2026-04-07 11:04:01
- * @LastEditTime: 2026-05-11 16:57:06
+ * @LastEditTime: 2026-05-13 15:52:53
  * @FilePath: \doc\docs-openharmony\zh\k1_oh6.1\index.md
  * @Description: 
 -->
-sidebar_position: 4
+sidebar_position: 3
 
 # K1 OH6.1
 
@@ -18,11 +18,5 @@ sidebar_position: 4
 - [3. K1_OH6.1方案添加移植说明](3_K1_OH6.1_porting.md)
 - [4. K1_OH6.1系统定制说明](4_K1_OH6.1_customization.md)
 - [5. K1_OH6.1系统调试说明](5_K1_OH6.1_debugging.md)
-- [6. K1_OH6.1 AI检测识别应用说明](6_K1_OH6.1_yolo.md)
-- [7. K1_OH6.1 AI聊天应用说明](7_K1_OH6.1_llmchat.md)
-- [8. K1_OH6.1 OTA使用说明](8_K1_OH6.1_ota.md)
-- [9. K1_OH6.1 RVV应用说明](9_K1_OH6.1_rvvdemo.md)
-- [10. K1_OH6.1 TTS应用说明](10_K1_OH6.1_ttsdemo.md)
-- [11. K1_OH6.1 ASR应用说明](11_K1_OH6.1_asrdemo.md)
-- [12. K1_OH6.1 OpenCV应用说明](12_K1_OH6.1_opencvdemo.md)
+- [6. K1_OH6.1 OTA使用说明](6_K1_OH6.1_ota.md)
 
