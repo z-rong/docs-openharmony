@@ -24,3 +24,4 @@ sidebar_position: 2
 - [9. K1_OH5.0方案OTA使用说明](9_K1_OH5.0_ota.md)
 - [10. K1_OH5.0三方包移植说明](10_K1_OH5.0_third_party.md)
 - [11. K1_OH5.0工程测试应用使用说明](11_K1_OH5.0_test_apps.md)
+- [12. K1_OH5.0 MIPI摄像头适配说明](12_K1_OH5.0_mipi_sensor.md)
