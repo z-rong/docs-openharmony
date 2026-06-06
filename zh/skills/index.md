@@ -5,13 +5,13 @@
  * 
  * @Author: David(qiang.fu@spacemit.com)
  * @Date: 2026-04-07 11:04:01
- * @LastEditTime: 2026-06-06 13:43:06
+ * @LastEditTime: 2026-06-06 13:50:40
  * @FilePath: \doc\docs-openharmony\zh\skills\index.md
  * @Description: 
 -->
 sidebar_position: 6
 
-# AI应用专题
+# Skill
 
 - [1. Camera调试](1_camera_skill.md)
 
